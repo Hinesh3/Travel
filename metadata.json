@@ -1,0 +1,6 @@
+{
+  "name": "TravelMate",
+  "description": "Verified check-ins & unfiltered tips from the TravelMate community in Kyoto",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
